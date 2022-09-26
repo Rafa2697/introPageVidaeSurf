@@ -9,6 +9,32 @@
 
 }
 
-bady, html{
+@font-face {
+    font-family: 'aloja';
+    src: url('Aloja-Light.otf') format('opentype');
+}
+
+header{
+    background-color: #F9DF6E;
+    margin: 30px;
+    display: flex ;
+    flex-wrap: nowrap
+}
+
+html{
+    background-color: darkgray;
+}
+
+h1{
+    text-align: center;
+    margin: auto;
+    font-family: 'aloja', 'Times New Roman', Times, serif;
+    font-size: 70px ;
     
+    
+}
+
+span{
+    font-size: small;
+
 }
