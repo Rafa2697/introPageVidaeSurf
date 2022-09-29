@@ -18,11 +18,13 @@ header{
     background-color: #F9DF6E;
     margin: 30px;
     display: flex ;
-    flex-wrap: nowrap
+    flex-wrap: nowrap;
+    padding: 1px;
+    
 }
 
 html{
-    background-color: darkgray;
+    background-color: rgba(169, 169, 169, 0.313);
 }
 
 h1{
